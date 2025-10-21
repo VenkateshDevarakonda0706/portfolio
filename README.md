@@ -1,6 +1,6 @@
-![Portfolio Screenshot](cp.png)
+![Portfolio Screenshot](pf.png)
 
-# 🌌 Amine Portfolio Website
+# 🌌 Venkatesh Devarakonda Portfolio Website
 
 Welcome to my personal **portfolio website**, a modern showcase of my projects, skills, and contact information.  
 The website features smooth animations, typing effects, responsive design, and a clean dark red theme.
@@ -8,6 +8,7 @@ The website features smooth animations, typing effects, responsive design, and a
 ---
 
 ## 🔗 Live Demo
+
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
 Or access the online demo here: [Live Demo](https://portfolio-venkateshdevarakonda0706.vercel.app/)
 
@@ -15,22 +16,22 @@ Or access the online demo here: [Live Demo](https://portfolio-venkateshdevarakon
 
 ## 🚀 Features
 
-- ⚡ **Responsive Design** — Works perfectly on all devices  
-- 🎨 **Typing Effect** — Animated text to showcase skills  
-- 🌍 **Smooth Scroll** — Fluid navigation between sections  
-- 💻 **Clean Structure** — Modular HTML, CSS, and JS  
-- 📧 **Contact Form** — Integrated with [EmailJS](https://www.emailjs.com/) for instant messaging  
+- ⚡ **Responsive Design** — Works perfectly on all devices
+- 🎨 **Typing Effect** — Animated text to showcase skills
+- 🌍 **Smooth Scroll** — Fluid navigation between sections
+- 💻 **Clean Structure** — Modular HTML, CSS, and JS
+- 📧 **Contact Form** — Integrated with [EmailJS](https://www.emailjs.com/) for instant messaging
 
 ---
 
 ## 🧠 Tech Stack
 
-| Category | Tools |
-|-----------|--------|
-| **Frontend** | HTML5, CSS3, JavaScript (ES6+) |
-| **Animations** | CSS keyframes, IntersectionObserver |
-| **Form Handling** | EmailJS |
-| **Deployment** | GitHub Pages |
+| Category          | Tools                               |
+| ----------------- | ----------------------------------- |
+| **Frontend**      | HTML5, CSS3, JavaScript (ES6+)      |
+| **Animations**    | CSS keyframes, IntersectionObserver |
+| **Form Handling** | EmailJS                             |
+| **Deployment**    | GitHub Pages                        |
 
 ---
 
@@ -40,3 +41,4 @@ Or access the online demo here: [Live Demo](https://portfolio-venkateshdevarakon
    ```bash
    git clone https://github.com/VenkateshDevarakonda0706/portfolio.git
    cd portfolio
+   ```
