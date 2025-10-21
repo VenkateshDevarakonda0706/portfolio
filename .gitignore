@@ -1,0 +1,11 @@
+# Ignore note files
+note
+
+# Ignore environment configuration
+.env
+
+# Ignore specific resume file
+resume.pdf
+replace.txt
+# Ignore all PDF files
+*.pdf
